@@ -1,2 +1,3 @@
-# ungdomsringen-musicfestival
-This app is the front end of the music festival that is realized with WordPress used as headless CMS to store the backend data. 
+# Ungdomsringen Music Festival
+This app an SPA that realize the front end of the music festival website.
+In this project we used WordPress as headless CMS to store and structure the data. 
